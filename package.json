@@ -1,0 +1,14 @@
+{
+  "name": "mastering_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": "https://github.com/karaKaan/mastering_typescript.git",
+  "author": "KaanKara <41960384+karaKaan@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
